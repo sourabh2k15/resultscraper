@@ -33,13 +33,13 @@ As the results are released on 31st of december and all students put load on tha
   I am in 3rd year of a 4 year course so valid scholar numbers - 12/13/14/15 + 111 + 1/2/3/4/5/6/7/8/9 + ***
  <br/>
  General structure of this repo will be like 
-  <pre>repo</pre><br/> 
-  <pre>  -language</pre><br/>
-  <pre>  -code</pre><br/>
-  <pre>  -images</pre><br/>
-  <pre>  -results</pre><br/>
-  <pre>   resultsorted.html</pre><br/>
-  <pre>  -xml/json</pre><br/>
-* Try to wrire from scratch solutions , use of libraries is not encouraged !
-* elegant code will help future learners learn better , for example bit shifting hackery .
+  repo<br/> 
+    -language<br/>
+    -code<br/>
+    -images<br/>
+    -results<br/>
+     resultsorted.html<br/>
+    -xml/json<br/>
+* Try to write "from scratch" solutions , use of libraries is not encouraged, as you learn lesser and the task gets simpler !
+* elegant code will help future learners better, for example bit shifting hackery .
 * extra points - demonstrate use of efficient data structures to handle data and algorithms to manipulate it .
