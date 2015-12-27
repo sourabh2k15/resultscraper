@@ -32,14 +32,14 @@ As the results are released on 31st of december and all students put load on tha
   13- joined in 2013 + 111 ( nobody knows -_- ) + 4 ( branch code - electronics ) 141 ( roll no ) = 131114141
   I am in 3rd year of a 4 year course so valid scholar numbers - 12/13/14/15 + 111 + 1/2/3/4/5/6/7/8/9 + ***
  <br/>
- General structure of this repo will be like 
+ General structure of this repo will be like<br/> 
   repo<br/> 
     -language<br/>
-    -code<br/>
-    -images<br/>
-    -results<br/>
-     resultsorted.html<br/>
-    -xml/json<br/>
+      -code<br/>
+      -images<br/>
+      -results<br/>
+      resultsorted.html<br/>
+      -xml/json<br/>
 * Try to write "from scratch" solutions , use of libraries is not encouraged, as you learn lesser and the task gets simpler !
 * elegant code will help future learners better, for example bit shifting hackery .
 * extra points - demonstrate use of efficient data structures to handle data and algorithms to manipulate it .
