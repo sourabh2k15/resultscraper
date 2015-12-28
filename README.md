@@ -2,14 +2,14 @@
 <h1>Introduction</h1>
 
 Hola hackers!
-I believe in every inch of the *hacker philosophy* and the *open source teachings*. This is a repo I am creating to begin my contribution to this wonderful community in a small way. My way of learning is to *learn by doing *, don't sit idle you wanna learn a new language make something , enough of boring exercises, tuts, pdfs and shit !
+This is a repo for a fun and practical purpose. I believe in learning by doing stuff. 
 
 
 This is a programming challenge , but way more real than those found on topcoder or hackerearth. Choose your own language , it could be any server side language nodejs, perl , php , C# , ruby , python , coldfusion , hack, haskell ,groovy, C/C++ ( I know it's crazy to do it in C/C++ ! ) . I will be going with C++ ,as I want to learn C++ ( which is my primary aim for creating this challenge )
 
 
 <h1>Bounty</h1>
-If you are a real hacker , you do not need this point , for the fun of completing this task in least code and least time with max efficiency is enough for you. For others you will have learnt almost all of the real concepts of your language in one single fun task ( atleast fun for me ! ) 
+If you are a real hacker , you do not need this point , for the fun of completing this task in least code and least time with max efficiency is enough for you. For others you will have learnt almost all of the real concepts of your language in one single fun task.
 
 <h1>Task</h1>
 
